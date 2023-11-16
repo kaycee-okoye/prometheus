@@ -26,8 +26,8 @@ The project relies on SQLite for database functionality. Ensure that you have th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kaycee-okoye/Prometheus.git
-   cd Prometheus
+   git clone https://github.com/kaycee-okoye/prometheus.git
+   cd prometheus
    ```
 
 2. Run the `Prometheus.java` file:
