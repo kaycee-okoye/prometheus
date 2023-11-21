@@ -39,7 +39,7 @@ The project relies on SQLite for database functionality. Ensure that you have th
 
 3. Explore the features and functionalities of the Prometheus application. You can select a component with the component window on the left, draw on the canvas (main window), and view/customize elements in the information window on right.
 
-<img src="screenshots/user_interface.png" alt="User Interface" height="400"/> &nbsp
+<img src="screenshots/user_interface.png" alt="User Interface" height="400"/>
 
 ## Contribution Guidelines
 
