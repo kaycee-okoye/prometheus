@@ -9,7 +9,7 @@ We appreciate your interest in contributing to Prometheus! Before you start, ple
    - Clone the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/prometheus.git
+   git clone https://github.com/kaycee-okoye/prometheus.git
    cd Prometheus
    ```
 
