@@ -55,7 +55,7 @@ We appreciate your interest in contributing to Prometheus! Before you start, ple
 
 ## Reporting Issues
 
-If you encounter bugs, issues, or have feature requests, please open an issue on the [Issue Tracker](https://github.com/your-username/prometheus/issues). Provide as much detail as possible to help us understand and address the problem.
+If you encounter bugs, issues, or have feature requests, please open an issue on the [Issue Tracker](https://github.com/kaycee-okoye/prometheus/issues). Provide as much detail as possible to help us understand and address the problem.
 
 ## Review Process
 
